@@ -1,0 +1,5 @@
+interface:
+  display_name: "Explain with motion"
+  short_description: "Split-screen explainer video from a recording: speaker, captions and motion graphics"
+policy:
+  allow_implicit_invocation: true

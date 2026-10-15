@@ -1,0 +1,23 @@
+{
+  "layout": "4:5",
+  "fps": 25,
+  "lang": "de",
+  "clip_duration": 318.96,
+  "captions": true,
+  "lower_third": {
+    "name": "Ruben Langwara",
+    "role": "im Gespräch mit Rebecca van der Linde"
+  },
+  "footer_left": "Ruben Langwara · Emotional intelligent durch den Change",
+  "endcard": {
+    "seconds": 6.5,
+    "eyebrow": "Beispiel",
+    "headline_html": "Emotionale <em>Dynamiken</em> verstehen.",
+    "subline": "Ruben Langwara · aus dem Interview mit Rebecca van der Linde",
+    "cta": {
+      "before": "Mehr dazu in der Fortbildung",
+      "highlight": "Emotionale Resilienz",
+      "after": "an der Resilienz Akademie"
+    }
+  }
+}

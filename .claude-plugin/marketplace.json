@@ -1,0 +1,17 @@
+{
+  "name": "explain-with-motion",
+  "owner": {
+    "name": "Ruben Langwara",
+    "url": "https://www.rubenlangwara.de"
+  },
+  "description": "Erklärvideos mit Motion Graphics aus Interviews und Podcasts – Skill von Ruben Langwara.",
+  "plugins": [
+    {
+      "name": "explain-with-motion",
+      "source": "./",
+      "description": "Splitscreen-Erklärvideo: Sprecher oben, Untertitel, Motion Graphics darunter.",
+      "category": "productivity",
+      "keywords": ["video", "motion-graphics", "explainer", "hyperframes", "linkedin"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "explain-with-motion",
+  "version": "0.1.0",
+  "description": "Turns a passage from an interview, podcast or call into a split-screen explainer video: speaker on top, captions, and motion graphics that visualise the explanation. 4:5, 9:16 or 16:9, rendered locally with HyperFrames.",
+  "author": {
+    "name": "Ruben Langwara",
+    "url": "https://www.rubenlangwara.de"
+  },
+  "repository": "https://github.com/Rubwara93/explain-with-motion",
+  "license": "MIT",
+  "keywords": ["video", "motion-graphics", "explainer", "split-screen", "hyperframes", "linkedin", "interview", "podcast", "coaching"],
+  "skills": ["./skills/explain-with-motion"]
+}

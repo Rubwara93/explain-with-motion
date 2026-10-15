@@ -1,0 +1,11 @@
+.note b{display:block;height:6px;border-radius:3px;background:rgba(28,39,51,.22);margin-bottom:14px}
+.chip{position:absolute;left:60px;width:960px;height:66px;border-radius:16px;background:var(--paper2);border:2px solid var(--primary-light);display:flex;align-items:center;gap:18px;padding:0 24px;font-size:29px;color:var(--ink)}
+#af svg{width:300px;height:313px}
+.step{position:absolute;left:60px;width:960px;height:104px;display:flex;align-items:center;gap:26px}
+.num{flex:none;width:64px;height:64px;border-radius:50%;background:var(--primary);color:var(--paper);display:flex;align-items:center;justify-content:center;font-family:"Spectral";font-weight:500;font-size:36px}
+.st{font-family:"Spectral";font-weight:500;font-size:40px;line-height:1.1}
+.ss{font-size:25px;color:var(--muted);margin-top:4px}
+.row{position:absolute;left:60px;width:960px;height:80px;display:flex;align-items:baseline;gap:28px;border-bottom:2px solid var(--line)}
+.row .k{width:200px;font-family:"Spectral";font-style:italic;font-weight:500;font-size:54px;color:var(--primary-dark)}
+.row .v{font-size:30px;color:var(--ink)}
+#ecdiv{transform-origin:center center}
